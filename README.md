@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-singla23&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-singla23" /> </p>
 
+<p align="left"> <a href="https://twitter.com/ms8031139singla" target="blank"><img src="https://img.shields.io/twitter/follow/ms8031139singla?logo=twitter&style=for-the-badge" alt="ms8031139singla" /></a> </p>
+
 - 🌱 I’m currently learning **DSA in C++ & Full Stack Web Development**
 
 - 💬 Ask me about **C++, HTML, CSS**
@@ -17,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ms8031139singla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ms8031139singla" height="30" width="40" /></a>
+<a href="https://twitter.com/ms8031139singla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ms8031139singla" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayank-singla-629806289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-singla-629806289" height="30" width="40" /></a>
 <a href="https://instagram.com/mayank.singla23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayank.singla23" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mayank-singla23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayank-singla23" height="30" width="40" /></a>
