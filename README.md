@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Singla</h1>
 <h3 align="center">Passionate about coding, I'm currently expanding my skills in C++, Python, CSS, and JS, thrilled to embark on this exciting journey in the world of programming as an enthusiastic frontend developer from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzU5bGZxdjRrdHVzcmgzN3RmOHA3N2V4czN4eTVhNmltbjh5Z2VwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQETeOPSimgVJw/article-cover_image-shrink_720_1280/0/1693502206064?e=2147483647&v=beta&t=j17E6spkS5GvW_UfzkW9UNfT2eeMvZ-nhaHWhO-1jmc">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-singla23&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-singla23" /> </p>
 
